@@ -705,6 +705,17 @@ details > p {
     padding: 8px;
 }
 
+.extended-keys {
+    font-size: 13px;
+    border: 1px solid #888;
+    border-radius: 4px;
+    box-shadow: none;
+    padding: 4px;
+    width: 950px;
+    height: 13px;
+    display: inline-block;
+}
+
 .placeholder {
     color: #999;
     font-size: 13px;
